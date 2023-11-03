@@ -14,4 +14,3 @@ Requer investimento de tempo na criação de testes.
 Pode ser difícil aplicar retroativamente a código existente.
 Pode resultar em uma cobertura excessiva de testes.
 
-- Este projeto serve como um guia prático e exemplo de como aplicar TDD e automação de testes de unidade em um contexto de desenvolvimento iOS, garantindo maior qualidade e confiabilidade do código.
